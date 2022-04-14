@@ -1,0 +1,8 @@
+{
+    "imports": {
+       "http/": "https://deno.land/std@0.134.0/http/",
+       "fs/": "https://deno.land/std@0.134.0/fs/",
+       "ws/": "https://deno.land/x/websocket@v0.1.3/",
+       "streams/": "https://deno.land/std@0.134.0/streams/"
+    }
+ }
